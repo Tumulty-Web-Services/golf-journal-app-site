@@ -1,9 +1,5 @@
 # [Golfjournal.io](https://golfjournal.io)
 
-## Motivation 
-
-This is the marketing landing page for the product [golf journal](https://github.com/Tumulty-Web-Services/golf-journal-app-pwa).
-
  #### TODO:
 
  1. Design Layouts
