@@ -1,4 +1,4 @@
-# Golf Journal
+# https://golfjournal.io
 
 ## Motivation 
 
