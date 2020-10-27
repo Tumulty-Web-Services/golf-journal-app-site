@@ -1,4 +1,4 @@
-# https://golfjournal.io
+# [Golfjournal.io](https://golfjournal.io)
 
 ## Motivation 
 
